@@ -32,7 +32,7 @@ const generateImageHash = async (imagePath) => {
 };
 
 // MongoDB connection
-mongoose.connect('mongodb+srv://Mushroom:Mushroom@mushroom.twsoy.mongodb.net/Mushroom?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://talekarnishita17:talekarnishita17@cluster0.0jszz.mongodb.net/', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
